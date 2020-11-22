@@ -17,4 +17,6 @@ STEP12: Encode the Image
 STEP13: Stop the program. 
 
 ## FLOWCHART:
-![FlowChart](https://1.bp.blogspot.com/-jGKQrIf3pF0/X7qdJaoPwQI/AAAAAAAAAIk/xn5H2eA5IekGgg98FK9dd_XCeh9T_MZpgCLcBGAsYHQ/s583/Screenshot%2B%2528369%2529.png)
+<p align="center">
+  <img src="https://1.bp.blogspot.com/-jGKQrIf3pF0/X7qdJaoPwQI/AAAAAAAAAIk/xn5H2eA5IekGgg98FK9dd_XCeh9T_MZpgCLcBGAsYHQ/s583/Screenshot%2B%2528369%2529.png"/>
+</p>

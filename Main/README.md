@@ -1,6 +1,8 @@
 ## COMPRESS THE IMAGE:
-* [Code is here where we are using huffman algorithm to compress bmp format image.](Image_Compression.c)
-* ![image](MARIO.bmp)
+[Code is here where we are using huffman algorithm to compress bmp format image.](Image_Compression.c)
+<p align="center">
+  <img src="MARIO.bmp"/>
+</p>
 
 ## ENCODED  IMAGE:
 [Encoded image output](encoded_image.txt)
